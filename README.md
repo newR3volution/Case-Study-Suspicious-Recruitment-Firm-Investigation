@@ -10,6 +10,9 @@ Date: 03-25-2025
 Tags: OSINT, Business Investigations, Fraud Detection
 
 
+This report is an exercise in assessing the legitimacy of businesses and recruiters using open-source intelligence techniques. The findings are anonymized, and the intent is purely educational
+
+
 
 Overview
 
